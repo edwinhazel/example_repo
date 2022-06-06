@@ -1,3 +1,4 @@
+/* Hello world examle in C */
 #include <stdio.h>
 
 int main() {
